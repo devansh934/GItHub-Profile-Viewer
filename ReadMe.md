@@ -12,6 +12,13 @@ Check out the live version of GitHub-Profile-Viewer here:
 [https://devansh934.github.io/GItHub-Profile-Viewer/](https://devansh934.github.io/GItHub-Profile-Viewer/)
 
 ---
+## **Screenshots**
+
+![App Screenshot]
+
+<img width="1897" height="864" alt="Screenshot 2025-12-28 002831" src="https://github.com/user-attachments/assets/0505909d-d228-4486-b064-60540e091d60" />
+
+---
 
 ## ✨ Features
 
@@ -98,6 +105,7 @@ Devansh Patel
 GitHub: https://github.com/devansh934
 
 ---
+
 
 
 
