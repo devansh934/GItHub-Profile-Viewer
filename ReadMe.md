@@ -8,6 +8,8 @@ This project helps users quickly view essential GitHub profile details such as r
 
 ## 🚀 Live Preview
 
+Check out the live version of GitHub-Profile-Viewer here:  
+[https://devansh934.github.io/GitHub-Profile-Viewer/](https://devansh934.github.io/GitHub-Profile-Viewer/)
 
 ---
 
@@ -96,6 +98,7 @@ Devansh Patel
 GitHub: https://github.com/devansh934
 
 ---
+
 
 
 
